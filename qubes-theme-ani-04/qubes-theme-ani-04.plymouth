@@ -1,0 +1,9 @@
+[Plymouth Theme]
+Name=qubes-theme-ani-04
+Description=Theme for Qubes OS
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/qubes-theme-ani-04
+ScriptFile=/usr/share/plymouth/themes/qubes-theme-ani-04/qubes-theme-ani-04.script
+
